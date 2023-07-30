@@ -1,6 +1,6 @@
 git # Dev Quotes
 
-This project documents quotes from many famous software developers.
+This project documents quotes from some famous software developers.
 
 # Background
 
@@ -18,3 +18,8 @@ Larry Wall
 Ward Cunningham
 
 Kent Beck
+
+List of developers
+-Bill Gates
+-Steve Jobs
+-Lee Sims
