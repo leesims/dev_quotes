@@ -1,3 +1,4 @@
+
 Any fool can write code that a computer can understand. Good programmers write
 code that humans can understand.
 
@@ -12,3 +13,8 @@ Often designers do complicated things that improve the capacity on a particular
 hardware platform when it might actually be cheaper to buy more hardware.
 
 [2012, Patterns of Enterprise Application Architecture]
+
+
+"If you're afraid to change something it is clearly poorly designed." ~ Martin Fowler
+
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." ~ Martin Fowler
